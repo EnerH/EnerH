@@ -10,7 +10,7 @@ Bridging my background in **Data Analytics (Power BI)** with:
 1. **Web Development**  
 2. **Data Science**  
 
-**👉To gradually launch small SaaS on [Product Hunt](https://www.producthunt.com/)**
+**👉 To gradually launch small SaaS on [Product Hunt](https://www.producthunt.com/)**
 
 ---
 
