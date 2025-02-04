@@ -14,7 +14,7 @@ Bridging my background in **Data Analytics (Power BI)** with:
 
 ---
 
-### 🛠️ **Web Development**  
+### 💻 **Web Development**  
 ✅ **Completed 100%** [CodeFast Full-Stack Bootcamp](http://www.codefa.st) 🚀  
 ✅ **Completed 80%. No completion needed. Focused on main topics** 🎯 
   [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/) (Udemy)  
