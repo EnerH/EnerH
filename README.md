@@ -1,7 +1,7 @@
 # README
 👋 Welcome to my SANDBOX PLAYGROUND for Projects
 
-The connecting thread between my projects is to explore what we used to know as Full-Stack 💻🤖 Now with all the LLMs never been easier to learn! 🚀
+The connecting thread between my projects is to explore what we used to know as Full-Stack 💻🤖 Now with all the LLMs it has never been easier to learn! 🚀
 
 The idea behind is to connect my background in Data Analyics with Power BI to 1) Web Development, and 2) Data Science, and to launch smal SaaS to Product Hunt (https://www.producthunt.com/)
 
